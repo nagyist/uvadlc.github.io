@@ -1,61 +1,45 @@
 [
 	{
-		"name": "Melika Davood Zadeh",
+		"name": "Alejandro Monroy",
 		"website": "",
-		"mail": "m.davoodzadeh@uva.nl",
+		"mail": "a.monroymunoz@uva.nl",
 		"type": "Head TA"
 	},
 	{
-		"name": "Mohammadreza Salehidehnavi",
+		"name": "Swasti Mishra",
 		"website": "",
-		"mail": "s.salehidehnavi@uva.nl",
+		"mail": "s.s.mishra@uva.nl",
 		"type": "Head TA"
 	},
 	{
-		"name": "Danilo de Goede",
-		"website": "",
-		"mail": "danilogoede@gmail.com",
-		"type": "Head TA"
+		"name": "Alessio Colombo",
+		"website": "a.colombo@uva.nl",
+		"mail": "g.mago@uva.nl"
 	},
 	{
-		"name": "Matey Krastev",
+		"name": "Ana Manzano",
 		"website": "",
-		"mail": "matey.krastev@student.uva.nl"
+		"mail": "a.manzanorodriguez@uva.nl"
 	},
 	{
-		"name": "Nesta Midavaine",
+		"name": "Andro Erdelez",
 		"website": "",
-		"mail": "n.m.midavaine2@uva.nl"
+		"mail": "a.erdelez@uva.nl"
 	},
 	{
-		"name": "Konrad Szewczyk",
+		"name": "Benjamin Hucko",
 		"website": "",
-		"mail": "konrad.szewczyk@student.uva.nl"
+		"mail": "b.hucko@uva.nl"
 	},
 	{
-		"name": "Luan Fletcher",
+		"name": "Bhavesh Sood",
 		"website": "",
-		"mail": "l.fletcher@uva.nl"
+		"mail": "b.sood@uva.nl"
 	},
 	{
-		"name": "Max van Spengler",
+		"name": "Freek Byrman",
 		"website": "",
-		"mail": "m.w.f.vanspengler@uva.nl"
-	},
-	{
-		"name": "Wenzhe Yin",
-		"website": "",
-		"mail": "w.yin@uva.nl"
-	},
-	{
-		"name": "Samuele Papa",
-		"website": "",
-		"mail": "s.papa@uva.nl"
-	},
-	{
-		"name": "Marina Orozco González",
-		"website": "",
-		"mail": "marinaorozcglez00@gmail.com"
+		"mail": "f.byrman@uva.nl"
 	},
 	{
 		"name": "Gowreesh Mago",
@@ -63,19 +47,24 @@
 		"mail": "g.mago@uva.nl"
 	},
 	{
-		"name": "Swasti Mishra",
+		"name": "Martyna Sendrowska",
 		"website": "",
-		"mail": "s.s.mishra@uva.nl"
+		"mail": "m.k.sendrowska@uva.nl"
 	},
 	{
-		"name": "Antoniοs Tragoudaras",
+		"name": "Marom Sverdlov",
 		"website": "",
-		"mail": "antonistragoudaras@gmail.com"
+		"mail": "m.sverdlov@uva.nl"
 	},
 	{
-		"name": "Floris Six Dijkstra",
+		"name": "Pedro Pombeiro",
 		"website": "",
-		"mail": "floris.six.dijkstra@student.uva.nl"
+		"mail": "p.m.pombeirocurvo@uva.nl"
+	},
+	{
+		"name": "Pradyut Nair",
+		"website": "",
+		"mail": "p.nair@uva.nl"
 	},
 	{
 		"name": "Ruthu Hulikal Rooparaghunath",
@@ -83,8 +72,13 @@
 		"mail": "r.h.rooparaghunath@uva.nl"
 	},
 	{
-		"name": "Ana Manzano Rodriguez",
+		"name": "Stipe Frkovic",
 		"website": "",
-		"mail": "a.manzanorodriguez@uva.nl"
+		"mail": "s.frkovic@uva.nl"
+	},
+	{
+		"name": "Thomas Wiggers",
+		"website": "",
+		"mail": "t.p.a.wiggers@uva.nl"
 	}
 ]
